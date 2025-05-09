@@ -13,3 +13,11 @@ Tôi tin rằng trong **10 năm tới**, lập trình di động sẽ tiếp t�
 ### Lý do:
 - Bởi vì, xét về thực trạng hiện tại và xu hướng tương lai, **số lượng người sử dụng điện thoại thông minh trên toàn thế giới ngày càng tăng**. Đồng thời, **nhu cầu từ người dùng** đối với các thiết bị thông minh (ở đây là điện thoại) cũng **ngày càng lớn**.
 - Bên cạnh đó, sự **cạnh tranh khốc liệt** giữa các nhà phát triển phần mềm và thiết bị di động cũng thúc đẩy việc đổi mới công nghệ không ngừng → **lập trình di động** vẫn sẽ tiếp tục **phát triển mạnh**.
+
+---
+
+## 3. Viết một ứng dụng có UI như trong đề.
+Ứng dụng phát triển cho nền tảng Android.
+
+### Hình ảnh ứng dụng:
+![image](https://github.com/user-attachments/assets/f3ef62af-964c-466f-bb93-ef9ee034959b)
